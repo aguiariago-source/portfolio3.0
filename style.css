@@ -34,6 +34,7 @@ a p{
 a p:hover{
     background-color: crimson;
     transform: scale(1.2);
+    transform: rotate(45deg);
 }
 body{
     text-align: center;
